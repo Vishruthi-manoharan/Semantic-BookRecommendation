@@ -1,4 +1,4 @@
-##Semantic Book Recommender with LLMs 
+# Semantic Book Recommender with LLMs 
 
 * Text data cleaning (code in the notebook `data-exploration.ipynb`)
 * Semantic (vector) search and how to build a vector database (code in the notebook `vector-search.ipynb`). This allows users to find the most similar books to a natural language query (e.g., "a book about a person seeking revenge")
